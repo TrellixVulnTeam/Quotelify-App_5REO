@@ -2,7 +2,7 @@
 
 ##### By Brian Jomo 
 
-### It is a description of the Quotelify-App website.
+### It is a description of the Quotelify-App.
 
 ## Table of Content
 
@@ -14,7 +14,7 @@
 + [Authors Info](#author-Info)
 
 ## Description
-*  
+  
 <p>This is a simple angular app. It contains a form, icons among other mordern website features. It is meant to be used as an application where web visitors can create,uptove,downvote and delete quotes of their choice.</p>
 
 
