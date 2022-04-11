@@ -39,6 +39,12 @@ To have access to this website you will have to click on this link: https://bri
 
 * JavaScript - Which was used to make the web pages interactive with the client-side and server-side, and provide accurate feedback as required by the       clients.
 
+## Reference
+
+* Materialize CSS
+
+* JavaScript - MDN Web Docs
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.3.1.
 
 ## Development server
