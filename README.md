@@ -22,6 +22,12 @@
 
 To gain acess to this website click on this link: https://brianjomo.github.io/Pizza-Project/
 
+### Requirements
+
+* Either a computer,phone,tablet or an Ipad.
+
+* An access to the Internet.
+
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.3.1.
 
