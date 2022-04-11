@@ -28,6 +28,16 @@ To gain acess to this website click on this link: https://brianjomo.github.io/Pi
 
 * An access to the Internet.
 
+### Installation Process
+
+To have access to this website you will have to click on this link: https://brianjomo.github.io/Pizza-Project/ then you will immediately be directed to the website and explore its features.
+## Technology Used
+
+* HTML - which was used to build the structure of the web pages.
+
+* CSS - which was used to style the web pages.
+
+* JavaScript - Which was used to make the web pages interactive with the client-side and server-side, and provide accurate feedback as required by the       clients.
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.3.1.
 
