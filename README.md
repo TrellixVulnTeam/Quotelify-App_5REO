@@ -15,7 +15,7 @@
 
 ## Description
 
-<p>This is a mordern website. It contains images, a form, icons among other mordern website features. It is meant to be used as a  website where customers can order pizza. It is conveniently usable on a desktop, laptop and some tablets.</p>
+<p>This is a simple angular app. It contains a form, icons among other mordern website features. It is meant to be used as an application where web visitors can create,uptove,downvote and delete quotes of their choice.</p>
 
 
 ## Installation
@@ -38,6 +38,7 @@ To have access to this website you will have to click on this link: https://bri
 * CSS - which was used to style the web pages.
 
 * JavaScript - Which was used to make the web pages interactive with the client-side and server-side, and provide accurate feedback as required by the       clients.
+* TypeScript - Which is a programming language that builds on JavaScript, giving you better tooling at any scale
 
 ## Reference
 
