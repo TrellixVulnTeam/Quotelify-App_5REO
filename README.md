@@ -42,9 +42,12 @@ To have access to this website you will have to click on this link: https://bri
 
 ## Reference
 
-* Materialize CSS
+* Materialize CSS.
 
-* JavaScript - MDN Web Docs
+* JavaScript - MDN Web Docs.
+
+* TypeScript Documentation.
+
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.3.1.
 
