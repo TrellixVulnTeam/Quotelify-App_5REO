@@ -17,6 +17,12 @@
 
 <p>This is a mordern website. It contains images, a form, icons among other mordern website features. It is meant to be used as a  website where customers can order pizza. It is conveniently usable on a desktop, laptop and some tablets.</p>
 
+
+## Installation
+
+To gain acess to this website click on this link: https://brianjomo.github.io/Pizza-Project/
+
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.3.1.
 
 ## Development server
