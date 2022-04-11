@@ -1,4 +1,4 @@
-# QuotesApp
+# Quotes App
 
 ##### By Brian Jomo 
 
