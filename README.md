@@ -48,6 +48,8 @@ To have access to this website you will have to click on this link: https://bri
 
 * TypeScript Documentation.
 
+*Angular Documentation. 
+
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.3.1.
 
@@ -101,4 +103,6 @@ SOFTWARE.
 
 ## Authors Info
 
-Email- brian.jomo@student.moringaschool.com
+Email - Brianofficial39@gmail.com
+
+Linked -www.linkedin.com/in/brian-jomo
