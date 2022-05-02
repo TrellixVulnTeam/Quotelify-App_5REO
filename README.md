@@ -103,6 +103,7 @@ SOFTWARE.
 
 ## Authors Info
 
-Email - Brianofficial39@gmail.com
+-   Email- [Brian Jomo](mailto:Brianofficial39@gmail.com)
 
-Linked -www.linkedin.com/in/brian-jomo
+-   Linkedin - [Brian Jomo](https://www.linkedin.com/in/brian-jomo/)
+
